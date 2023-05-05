@@ -15,3 +15,7 @@ C# ve Microsoft Access
 <h2>Veritabanı Diyagramı</h2>
 
 ![PC_Satis_212523305_Database_Diagram](https://user-images.githubusercontent.com/79020025/236347719-dd3a8976-fc74-4650-9731-18e9eb561cec.png)
+
+<h2>Uygulama Ekranı</h2>
+
+![Ekran Görüntüsü Örneği](https://user-images.githubusercontent.com/79020025/236424852-7f7a6297-571e-4fed-bad6-9593e097c3fc.jpg)
